@@ -1,0 +1,21 @@
+{
+    "name": "test_csv_js",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./test_csv_js.js",
+    "author": {
+        "name": "P699217",
+        "email": "you@email.example"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/YOUR_LOGIN/test_csv_js.git"
+    },
+    "bugs": {
+        "url": "http://github.com/YOUR_LOGIN/test_csv_js/issues"
+    }
+}
